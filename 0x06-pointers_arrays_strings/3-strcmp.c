@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * _strcmp - Function that compare two string values
+ * _strcmp - compares two strings values
  * @s1: string 1
  * @s2: string 2
- *
  * Return: the difference between s1 and s2
  */
 
